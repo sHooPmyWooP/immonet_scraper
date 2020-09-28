@@ -1,0 +1,21 @@
+{
+"immonet" : {
+  "title": "title",
+  "pic": "pic",
+  "category": "obcat",
+  "obj_cat": "objectcat",
+  "price": "price",
+  "fed": "fed",
+  "city": "city",
+  "zip": "zip",
+  "area": "area",
+  "areaeffective": "areaeffective",
+  "rooms": "rooms",
+  "year": "buildyear",
+  "first_occupancy": "obcon",
+  "balcony": "balcn",
+  "garden": "gardn",
+  "kitchen": "kitch",
+  "marketingtype": "marketingtype"
+}
+}
